@@ -1,0 +1,111 @@
+.banner5{
+    background: #0E4CD9;
+    border-radius: 8px;
+    height: 300.8px;
+    position: relative;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.star_img1{
+    /* position: absolute; */
+}
+.bigStar{
+    width: 30px !important;
+    height: 30.08px !important;
+    margin-left: 90px;
+    margin-top: 50px;
+    position: absolute;
+}
+.smallStar{
+    margin-top: 70px;
+    width: 20px;
+    height: 20.05px;
+    position: absolute;
+    margin-left: 11%;
+}
+.exp_head1{
+    width: 750px;
+    height: 59.16px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 17%;
+    padding-top: 43.12px !important;
+    /* position: absolute; */
+}
+.exp_head2{
+    font-weight: 700;
+}
+.springimg{
+    margin-left: 90px;
+    margin-top: -35px !important;
+    /* margin-top: 80px; */
+}
+.spring1{
+    position: absolute;
+}
+.medalimg{
+    /* width: 130.28px; */
+    /* height: 130.28px; */
+    /* margin-top: 85px; */
+    margin-left: 120px;
+    margin-top: -48px;
+    /* position: absolute; */
+}
+.exp_para{
+    width: 508px;
+    height: 72.19px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #CCCCCC;
+    margin-left: 28%;
+    margin-top: 15.03px;
+}
+.download_btn{
+    margin-left: 41%;
+    margin-top: 20px;
+    margin-bottom: 43.11px;
+    position: absolute;
+}
+.spring_img{
+   margin-left: 55% !important;
+   margin-top: 2%;
+   position: absolute;
+ }
+ .ellipse{
+    position: absolute;
+    margin-top: -17%;
+    margin-left: 57%;
+    /* width: 180px;
+    height: 192.52px; */
+    margin-bottom: 54.14px !important;
+ }
+
+
+/* .downloadbtn2{
+    width: 159px;
+    height: 40px;
+    opacity: 0.8;  
+    transform: skew(-6deg);
+    background-color: #FFFFFF !important;
+    border: none;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 14px;
+    color: #0E4CD9 !important;
+    margin-left: 42%;
+    margin-top: 20px;
+}
+.btn_text2{
+    display: inline-block;
+    transform: skew(6deg);
+    color: #0E4CD9 !important;
+} */
