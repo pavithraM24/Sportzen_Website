@@ -1,11 +1,10 @@
 .footer{
     margin-top: 120px;
     border-top: 1px solid #2E2B39;
-    height: 510px;   
+    height: 485px;   
 }
 .footer_leftpart{
     position: relative;
-    /* border: 1px solid white; */
 }
 .rect_img{
     margin-left: 94px;
@@ -28,7 +27,7 @@
 }
 .footer_btn{
     margin-left: 94px;
-    margin-top: 48%;
+    margin-top: 75%;
 }
 .downloadapp{
     width: 159px;
@@ -44,7 +43,8 @@
 }
 .footer_rightpart{
     background: #0E0C16;
-    margin-left: 8.2%;
+    margin-left: 22.1%;
+    width: 600px;
 }
 .footer_head2{
     padding-top: 70px;
@@ -84,5 +84,63 @@
     font-size: 18px;
     line-height: 22px;
     text-transform: lowercase;
+    color: #9F9EA2;
+}
+.mob_msg{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-top: 5% !important;
+}
+.mob_num{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: lowercase;
+    color: #9F9EA2;
+}
+.links{
+    margin-top: 46px;
+    margin-left: 80px;
+    margin-bottom: 72px;
+    margin-right: 80px;
+}
+.notice_link{
+    width: 139px;
+    height: 17px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #9F9EA2;
+}
+.service_link{
+    width: 131px;
+    height: 17px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #9F9EA2;
+}
+.policy_link{
+    width: 114px;
+    height: 17px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration-line: underline;
     color: #9F9EA2;
 }

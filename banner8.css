@@ -48,7 +48,7 @@
 
 }
 .popu_para2{
-    width: 561px;
+    width: 566px;
     height: 48px;
     font-family: 'Montserrat';
     font-style: normal;
@@ -57,7 +57,6 @@
     line-height: 24px;
     color: #9F9EA2;
     text-transform: capitalize;
-    padding-bottom: 30px !important;
 }
 .img-content{
     display: flex;
@@ -70,10 +69,11 @@
     height: 30px;
 }
 .line1{
-    width: 600px;
+    width: 625px;
     height: 0;
     border: 0.1px solid #999999;
     opacity: 0.1;
+    margin-top: 20px;
 }
 .img-content2{
     display: flex;
@@ -96,7 +96,7 @@
     height: 22px;
 }
 .imgpart2{
-    margin-left: 15%;
+    margin-left: 19%;
     margin-top: -4px;
 }
 .plusimg{
@@ -104,7 +104,7 @@
     height: 30px;
 }
 .line2{
-    width: 600px;
+    width: 625px;
     height: 0;
     border: 0.1px solid #999999;
     opacity: 0.1;
