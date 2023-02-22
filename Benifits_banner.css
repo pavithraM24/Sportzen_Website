@@ -1,0 +1,230 @@
+.banner6{
+    height: 190vh;
+    /* border: 1px solid white; */
+    margin-top: 127px;
+}
+.benefit_rect{
+    width: 210px;
+    height: 45px;
+    margin-left: 18%;
+    margin-top: 25px;
+    position: absolute;
+}
+.benefits_head{
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 130%;
+    padding-left: 18%;
+    padding-top: 5px;
+    position: absolute;
+}
+.benefit_head2{
+    color: #9f9ea2;
+}
+.card2_banner{
+    margin-top: 9% !important;
+    display: flex;
+    width: 100%;
+}
+.benefit_col1{
+    padding-left: 7%;
+    width: 30%;
+}
+.benefit_card1{
+    width: 300px;
+    height: 320px;
+    background: rgba(43, 87, 204, 0.1);
+    box-shadow: inset 0px 0px 30px #2B57CC;
+}
+
+.benefit_img{
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+.sportimg{
+    width: 80px;
+    height: 80px;
+    margin-top: 47px;
+}
+.benefit_img3{
+    margin-left: 95px;
+    margin-right: 95.12px;
+}
+.sportimg2{
+    width: 100px;
+    height: 80px;
+    margin-top: 45px;
+}
+.card_head1{
+    width: 170px;
+    height: 74px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 65px;
+    margin-right: 65px;
+    margin-top: 12px;
+}
+.card_head2{
+    width: 196px;
+    height: 74px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 48px;
+    margin-right: 56px;
+    margin-top: 12px;
+}
+.card_para1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #9F9EA2;
+    width: 200px;
+    height: 48px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 12px;
+    margin-bottom: 45px;
+}
+.card_para{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #9F9EA2;
+    width: 200px;
+    height: 48px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 16px;
+    margin-bottom: 45px;
+}
+.benefit_card2{
+    width: 300px;
+    height: 320px;
+    background: rgba(43, 87, 204, 0.1);
+    box-shadow: inset 0px 0px 30px #2B57CC;
+    margin-top: 40px;
+}
+.benefit_card3{
+    width: 300px;
+    height: 320px;
+    background: rgba(43, 87, 204, 0.1);
+    box-shadow: inset 0px 0px 30px #2B57CC;
+    margin-top: 40px;
+}
+.benefit_col2{
+    width: 40%;  
+}
+.benefit_img2{
+    margin-top: 120px;
+    margin-left: 78px;
+    margin-right: 78px;
+}
+.infoimg{
+    width: 413px;
+    height: 827px;
+}
+.benefit_col3{
+    padding-right: 7%;
+    width: 30%;
+}
+.benefit_card5{
+    width: 300px;
+    height: 320px;
+    background: rgba(43, 87, 204, 0.1);
+    box-shadow: inset 0px 0px 30px #2B57CC;
+    /* margin-top: 40px; */
+}
+.benefit_card6{
+    width: 300px;
+    height: 320px;
+    background: rgba(43, 87, 204, 0.1);
+    box-shadow: inset 0px 0px 30px #2B57CC;
+    margin-top: 40px;
+}
+.benefit_img4{
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.sportimg3{
+    width: 80px;
+    height: 80px;
+    margin-top: 45px;
+}
+.card_head3{
+    width: 211px;
+    height: 74px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 45px;
+    margin-right: 44px;
+    margin-top: 12px;
+}
+.card_para2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #9F9EA2;
+    width: 200px;
+    height: 48px;
+    margin-left: 45px;
+    margin-right: 51px;
+    margin-top: 16px;
+    margin-bottom: 45px;
+}
+.card_head4{
+    width: 211px;
+    height: 74px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 39px;
+    margin-right: 39px;
+    margin-top: 12px;
+}
+.card_para3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #9F9EA2;
+    width: 200px;
+    height: 48px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-top: 16px;
+    margin-bottom: 45px;
+}

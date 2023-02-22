@@ -1,0 +1,88 @@
+.footer{
+    margin-top: 120px;
+    border-top: 1px solid #2E2B39;
+    height: 510px;   
+}
+.footer_leftpart{
+    position: relative;
+    /* border: 1px solid white; */
+}
+.rect_img{
+    margin-left: 94px;
+    margin-top: 80px;
+    position: absolute;
+}
+.footer_head{
+    width: 585px;
+    height: 225px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 150%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-left: 94px;
+    margin-top: 50px;
+    position: absolute;
+}
+.footer_btn{
+    margin-left: 94px;
+    margin-top: 48%;
+}
+.downloadapp{
+    width: 159px;
+    height: 40px;
+    transform: skew(-6deg);
+    background: #0E4CD9;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF; 
+    border: none;
+}
+.footer_rightpart{
+    background: #0E0C16;
+    margin-left: 8.2%;
+}
+.footer_head2{
+    padding-top: 70px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+.footer_para{
+    width: 440px;
+    height: 48px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #9F9EA2;
+}
+.chat_msg{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-top: 5% !important;
+}
+.mail_id{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: lowercase;
+    color: #9F9EA2;
+}
