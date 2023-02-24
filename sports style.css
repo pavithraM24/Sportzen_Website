@@ -11,7 +11,7 @@
     padding-left: 0px;
 }
 .navbar{
-    border-bottom: 1px solid #BCBEC0;
+    border-bottom: 1px solid #1D192C;;
 }
 .navbar-brand{
     font-family: 'Inter';
@@ -59,9 +59,7 @@
     display: inline-block;
     transform: skew(6deg);
 }
-.Banner1{
-    height: 85vh;
-}
+
 .row{
     margin-top: 0px;
     margin-right: 0px;
@@ -126,7 +124,7 @@
     width: 569px;
     height: 535px;
     background-image: url(Images/BanRectangle.png);
-    margin-top: 20px;
+    margin-top: 37px;
     /* border: 1px solid white; */
     /* margin-left: 5px !important; */
 }
@@ -140,9 +138,9 @@
     /* background-color: linear-gradient(0deg, #000000 23.36%, #808080 122.87%) !important; */
     /* border-radius: 35px; */
 }
-.mobile_img1{
+/* .mobile_img1{
    width: 98%;
-}
+} */
 .outer_border{
     position: absolute !important;
 }
@@ -161,9 +159,7 @@
     margin-top: 70px;
     position: absolute;
 }
-.mobile_img1{
-    /* width: 85%; */
-}
+
 .mobile_border{
     position: absolute !important;
     margin-left: 80px;
@@ -200,7 +196,8 @@
 .title{
     width: 265px;
     height: 100px;
-    margin-left: 44%;
+    margin-left: 41%;
+    padding-top: 56px;
 }
 .ban_head2{
     font-family: 'Montserrat';
@@ -216,11 +213,11 @@
     /* background: linear-gradient(90deg, #0E4CD9 0%, rgba(14, 76, 217, 0) 103.25%); */
     width: 265px;
     height: 47px;
-    margin-left: 44%;
+    margin-left: 41%;
 }
 
 .feature_bg{
-    margin-left: 44%;
+    margin-left: 41%;
     margin-top: 25px;
 }
 .ban_head3{  

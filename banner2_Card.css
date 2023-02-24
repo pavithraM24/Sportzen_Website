@@ -1,7 +1,6 @@
 /* Card alignment */
 
 .card_banner{
-    height: 230vh;
     display: flex;
     width: 100%;
 }
@@ -11,18 +10,17 @@
 }
 .card_col2{
     width: 40%;
+    padding-left: 3.5%;
 }
 .card_col3{
     width: 30%;
-    padding-right: 7%;
+    /* padding-right: 7%; */
 }
 .card1{
     width: 316px;   
     height: 371px;
     border: none;
     margin-top: 89.31px;
-    /* border: 1px solid white; */
-    /* position: relative; */
     background: linear-gradient(180deg, rgba(26, 24, 34, 0) 0%, rgba(51, 53, 56, 0.75) 29.87%, #333538 61.66%);
 }
 .card_img{
@@ -50,7 +48,6 @@
 }
 .card_content2{
     width: 280px;
-    /* height: 70.87px; */
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -79,17 +76,14 @@
 }
 .card3{
     margin-top: 89.31px;
-    padding-left: 13%;
+    margin-left: 5%;
     /* padding-right: 13%; */
 }
-.mobileimg{
-width: 413px;
-height: 827px;
-}
+
 .card4{
     width: 316px;
     height: 446px;
-    margin-left: 120px;
+    margin-left: 15%;
     margin-top: 65.76px;
     /* border: 1px solid white; */
     background: linear-gradient(180deg, rgba(26, 24, 34, 0) 0%, rgba(51, 53, 56, 0.75) 29.87%, #333538 61.66%);
