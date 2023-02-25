@@ -12,7 +12,7 @@
   
   .Carousel {
     --carousel-gap: 1rem;
-    border-radius: 1rem;
+    /* border-radius: 1rem; */
     display: flex;
     gap: var(--carousel-gap);
     overflow-y: hidden;

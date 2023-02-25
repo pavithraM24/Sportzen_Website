@@ -1,15 +1,20 @@
 .footer{
     margin-top: 120px;
     border-top: 1px solid #2E2B39;
-    /* height: 485px;    */
-    margin-bottom: 150px;
+    padding-left: 7%;
+    display: flex;
 }
 .footer_leftpart{
     position: relative;
+    width: 50%;
+    /* border: 1px solid white; */
+    padding-top: 80px;
+    /* padding-right: ; */
+    
+    /* padding: 80px;     */
 }
 .rect_img{
-    margin-left: 94px;
-    margin-top: 80px;
+    margin-top: 26px;
     position: absolute;
 }
 .footer_head{
@@ -22,14 +27,9 @@
     line-height: 150%;
     text-transform: capitalize;
     color: #FFFFFF;
-    margin-left: 94px;
-    margin-top: 50px;
     position: absolute;
 }
-.footer_btn{
-    margin-left: 94px;
-    margin-top: 75%;
-}
+
 .downloadapp{
     width: 159px;
     height: 40px;
@@ -41,14 +41,15 @@
     font-size: 14px;
     color: #FFFFFF; 
     border: none;
+    margin-top: 250px;
 }
 .footer_rightpart{
     background: #0E0C16;
-    margin-left: 22.1%;
-    width: 600px;
+    width: 45%;
+    margin-left: 115px;
 }
 .footer_head2{
-    padding-top: 70px;
+    padding-top: 80px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
@@ -56,10 +57,11 @@
     line-height: 39px;
     text-transform: capitalize;
     color: #FFFFFF;
+    padding-left: 30px;
 }
 .footer_para{
     width: 440px;
-    height: 48px;
+    /* height: 48px; */
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -67,6 +69,7 @@
     line-height: 24px;
     text-transform: capitalize;
     color: #9F9EA2;
+    padding-left: 30px;
 }
 .chat_msg{
     font-family: 'Montserrat';
@@ -77,6 +80,7 @@
     text-transform: capitalize;
     color: #FFFFFF;
     margin-top: 5% !important;
+    margin-left: 30px;
 }
 .mail_id{
     font-family: 'Montserrat';
@@ -86,6 +90,7 @@
     line-height: 22px;
     text-transform: lowercase;
     color: #9F9EA2;
+    padding-left: 30px;
 }
 .mob_msg{
     font-family: 'Montserrat';
@@ -96,6 +101,7 @@
     text-transform: capitalize;
     color: #FFFFFF;
     margin-top: 5% !important;
+    margin-left: 30px;
 }
 .mob_num{
     font-family: 'Montserrat';
@@ -105,12 +111,12 @@
     line-height: 22px;
     text-transform: lowercase;
     color: #9F9EA2;
+    padding-left: 30px;
 }
 .links{
-    margin-top: 46px;
-    margin-left: 80px;
-    margin-bottom: 72px;
-    margin-right: 80px;
+    margin: 46px 94px 72px 95px;
+    width: 430px;
+    /* border: 1px solid white; */
 }
 .notice_link{
     width: 139px;
