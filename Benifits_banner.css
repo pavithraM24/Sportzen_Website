@@ -1,13 +1,11 @@
 .banner6{
-    height: 190vh;
-    /* border: 1px solid white; */
     margin-top: 127px;
 }
 .benefit_rect{
     width: 210px;
     height: 45px;
-    margin-left: 18%;
-    margin-top: 25px;
+    left: 0;
+    top: 16px;
     position: absolute;
 }
 .benefits_head{
@@ -17,22 +15,24 @@
     font-weight: 700;
     font-size: 48px;
     line-height: 130%;
-    padding-left: 18%;
-    padding-top: 5px;
-    position: absolute;
+    text-align: center;
+}
+.benefits_bg{
+    position: relative;
 }
 .benefit_head2{
     color: #9f9ea2;
 }
 .card2_banner{
-    margin-top: 9% !important;
+    margin-top: 80px !important;
     display: flex;
     width: 100%;
+    padding: 0px 7%;
+    justify-content: space-between;
 }
-.benefit_col1{
-    padding-left: 7%;
+/* .benefit_col1{
     width: 30%;
-}
+} */
 .benefit_card1{
     width: 300px;
     height: 320px;
@@ -131,9 +131,9 @@
     box-shadow: inset 0px 0px 30px #2B57CC;
     margin-top: 40px;
 }
-.benefit_col2{
+/* .benefit_col2{
     width: 40%;  
-}
+} */
 .benefit_img2{
     margin-top: 120px;
     margin-left: 78px;
@@ -143,10 +143,9 @@
     width: 413px;
     height: 827px;
 }
-.benefit_col3{
-    padding-right: 7%;
+/* .benefit_col3{
     width: 30%;
-}
+} */
 .benefit_card5{
     width: 300px;
     height: 320px;

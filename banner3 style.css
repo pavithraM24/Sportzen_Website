@@ -1,53 +1,49 @@
 .Banner3{
     background-image: url(Images/ban3.png);
-    height: 677px;
-    margin-left: 7%;
-    margin-right: 7%;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 120px;
+    display: flex;
 }
-.ban_title{
-    /* border: 1px solid white; */
-}
+
 .banhead3{
     width: 370px;
     height: 128px;
-    margin-left: 100px !important;
-    margin-top: 290px;
+    margin-left: 110px !important;
+    margin-top: 275px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
     font-size: 58px;
     color: white !important;
-    /* border: 1px solid white; */
 }
 .down_arrow{
-    margin-top: 100px;
-    margin-left: 43%;
+    margin-top: 97px;
+    margin-left: 231px;
+    margin-bottom: 143.5px;
 }
 .bi{
     color: white;
 }
 .ban_rightpart{
-    /* border: 1px solid white; */
-    position: relative;
-       
+position: relative;
 }
 .bg_img{
-    /* position: absolute; */
-    width: 620px !important;
-    height: 600px;
-    margin-top: 10%;
-    /* margin-top: 45%;
-    background: #2A2738;
-    filter: blur(100px);  */
+    position: absolute;
+    width: 567px;
+    margin-left: 200px;
+    margin-top: 40px;
 }
+
 .player_img{
-    position: absolute !important;
-    margin-top: 15% !important;
-    margin-left: -60%;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 370px;
 }
 .ellipse_img{
-    position: absolute !important;
-    margin-top: 80%;
-    margin-left: -61%;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 360px;
 }
+
 
