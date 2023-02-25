@@ -73,7 +73,7 @@
     border-radius: 100%;
     display: block;
     height: 1.5rem;
-    width: 1.5rem;
+    width: 1.2rem;
     position: relative;
   }
   .Dot::after {
@@ -94,7 +94,17 @@
     width: 40px;
   }
   .Dot--active {
-    color: hsl(var(--theme-pink)) !important;
+    height: 10px;
+    width: 30px;
+    border-radius: 5px;
+    background: #0E4CD9;
+    margin: 0 4px;
+  }
+  .Dots a{
+    color: #7F9DDF;
+  }
+  a.Dot.Dot--active{
+    color: #0E4CD9;
   }
   
   .Pagination {
@@ -190,8 +200,9 @@
   
   .Main {
     margin: 0 auto;
-    max-width: calc(90rem + 10vw);
-    padding: 1.5rem 5vw;
+    /* max-width: calc(90rem + 10vw); */
+    /* padding: 1.5rem 5vw; */
+    padding: 1.5rem 10px 1.5rem 7%;
     width: 100%;
   }
   .Main > *:first-child {
