@@ -3,7 +3,6 @@
     margin-left: 7%;
     margin-right: 7%;
     background: #0E0C16;
-    /* height: 642px; */
 }
 .popular_content{
     margin-left: 65px;
@@ -14,7 +13,6 @@
     position: absolute;
 }
 .popu_head{
-
     width: 321px;
     margin: 56px 0px 85px 90px !important;
     font-family: 'Montserrat';
@@ -44,9 +42,11 @@
     font-size: 18px;
     line-height: 22px;
     color: #FFFFFF;
-    margin-top: 14%;
     text-transform: capitalize;
 
+}
+.right_content{
+    margin-top: 99px;
 }
 .popu_para2{
     width: 566px;
