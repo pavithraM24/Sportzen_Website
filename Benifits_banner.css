@@ -4,9 +4,8 @@
 .benefit_rect{
     width: 210px;
     height: 45px;
-    left: 0;
-    top: 16px;
     position: absolute;
+    margin-top: 18px;
 }
 .benefits_head{
     color: #FFFFFF;
@@ -30,9 +29,6 @@
     padding: 0px 7%;
     justify-content: space-between;
 }
-/* .benefit_col1{
-    width: 30%;
-} */
 .benefit_card1{
     width: 300px;
     height: 320px;
