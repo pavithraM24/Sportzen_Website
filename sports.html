@@ -31,10 +31,10 @@
   <title>Gaming Webpage</title>
 </head>
 
-<body>
+<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
   <!---Navbar--->
-  <div class="container-fluid">
-    <nav class="navbar navbar-expand-lg">
+  <div class="container-fluid" id="homeBanner">
+    <nav class="navbar navbar-expand-lg sticky_header">
       <img src="Images/sportzen_logo.png" class="sport_logo ms-3">
       <!-- <a class="navbar-brand ps-3" href="#">SPORTZEN</a> -->
       <span class="brand2 ms-3 pt-2" href="#">Allies</span>
@@ -64,7 +64,7 @@
     </nav>
 
     <!-----BANNER 1------>
-    <div class="Banner1" id="homeBanner">
+    <div class="Banner1">
       <div class="row">
         <div class="col-md-6 leftpart">
           <h1 class="sportHead">Sportsbook for digital natives.</h1>

@@ -19,6 +19,13 @@ a.nav-link.active:after {
     position: relative;
     bottom: -1.3rem;
 }
+/* .sticky_header{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: #0E0C16;
+} */
+
 
 input {
     position: absolute;
