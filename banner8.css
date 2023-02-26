@@ -3,18 +3,23 @@
     margin-left: 7%;
     margin-right: 7%;
     background: #0E0C16;
+    /* height: 692px; */
+}
+.pr-35{
+    padding-right: 35px;
 }
 .popular_content{
     margin-left: 65px;
-    position: relative;
+    /* position: relative; */
 }
 .popularimg{
-    margin-top: 44px !important;
+    top: 44px;
+    left: 65px;
     position: absolute;
 }
 .popu_head{
     width: 321px;
-    margin: 56px 0px 85px 90px !important;
+    margin: 56px 0px 85px 80px !important;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
@@ -25,14 +30,12 @@
 }
 .curveimg{
     position: absolute;
-    margin-left: 340px;
-    /* margin-top: 23%; */
-    /* width: 171.24px;
-    height: 100.94px */
+    left: 340px;
+    top: 109px;
 }
 .chatimg{
     position: absolute;
-    margin-left: 40px;
+    left: 40px;
     bottom: 0;
 }
 .popu_para1{
@@ -46,7 +49,7 @@
 
 }
 .right_content{
-    margin-top: 99px;
+    margin: 66px 0 0px;
 }
 .popu_para2{
     width: 566px;
@@ -58,9 +61,11 @@
     line-height: 24px;
     color: #9F9EA2;
     text-transform: capitalize;
+    margin: 0px 0 30px;
 }
 .phone_content{
     position: relative;
+    height: 642px;
 }
 .img-content{
     display: flex;
@@ -73,7 +78,6 @@
     height: 30px;
 }
 .line1{
-    width: 625px;
     height: 0;
     border: 0.1px solid #999999;
     opacity: 0.1;
@@ -96,7 +100,7 @@
     line-height: 22px;
     color: #FFFFFF;
     text-transform: capitalize;
-    padding: 33px 0px 33px 0px;
+    padding: 25px 0px 25px 0px;
     /* width: 514px;
     height: 22px; */
 }
@@ -113,4 +117,5 @@
     height: 0;
     border: 0.1px solid #999999;
     opacity: 0.1;
+    /* margin-top: 17px; */
 }

@@ -45,22 +45,25 @@ input {
   .tab-label {
     display: flex;
      justify-content: space-between;
-    
+    align-items: center;
      cursor: pointer;
+    }
+    .tab-label p{
+        margin: 0;
     }
     .tab-label:hover {
      /* background: #1a252f; */
     }
     .tab-label::after {
     content: "+";
-    width: 1em;
-     height: 1em;
+    width: 25px;
+     height: 25px;
      display: flex;
      align-items: center;
      justify-content: center;
      transition: all 0.35s;
      background-color: transparent;
-     border: 1px solid #FFF;
+     border: 2.75px solid #FFF;
      border-radius: 50%;
      color: #FFF;
     }
@@ -68,6 +71,7 @@ input {
      max-height: 0;
      color: #2c3e50;
     transition: all 0.35s;
+    /* padding-top: 3px; */
     }
     .tab-close {
     display: flex;

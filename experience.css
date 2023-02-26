@@ -111,7 +111,7 @@
     align-items: center;
     display: flex;
     justify-content: center;
-    margin: 1rem -0.5rem;
+    margin-top: 80px;
   }
   .Pagination .Arrow {
     flex: 0 0 auto;
@@ -202,7 +202,7 @@
     margin: 0 auto;
     /* max-width: calc(90rem + 10vw); */
     /* padding: 1.5rem 5vw; */
-    padding: 1.5rem 10px 1.5rem 7%;
+    padding: 1.5rem 10px 0rem 7%;
     width: 100%;
   }
   .Main > *:first-child {
@@ -235,8 +235,7 @@
     background: #0E4CD9;
     border-radius: 8px;
     position: relative;
-    margin-left: 7%;
-    margin-right: 7%;
+    margin: 120px 7% 0;
     padding-bottom: 43px;
 }
 .star_img1{
