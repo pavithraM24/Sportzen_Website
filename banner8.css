@@ -113,7 +113,7 @@
     height: 30px;
 }
 .line2{
-    width: 625px;
+    /* width: 625px; */
     height: 0;
     border: 0.1px solid #999999;
     opacity: 0.1;

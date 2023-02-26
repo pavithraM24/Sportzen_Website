@@ -55,17 +55,17 @@ input {
      /* background: #1a252f; */
     }
     .tab-label::after {
-    content: "+";
-    width: 25px;
-     height: 25px;
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     transition: all 0.35s;
-     background-color: transparent;
-     border: 2.75px solid #FFF;
-     border-radius: 50%;
-     color: #FFF;
+        content: "+";
+        width: 25px;
+        height: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.35s;
+        background-color: transparent;
+        border: 2.75px solid #FFF;
+        border-radius: 50%;
+        color: #FFF;
     }
     .tab-content {
      max-height: 0;
@@ -90,6 +90,7 @@ input {
     }
     input:checked + .tab-label::after {
     content: "-";
+    line-height: 25px;
     }
     input:checked ~ .tab-content {
     max-height: 100vh;
