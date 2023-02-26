@@ -324,7 +324,7 @@ a.nav-link:after {
     font-weight: 700;
     font-size: 58px;   
     display: block;
-    background-image: url(Images/Ban2_bg.png);
+    background-image: url(../Images/Ban2_bg.png);
     text-align: center;
     background-position: center;
     background-repeat: no-repeat;  
