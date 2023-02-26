@@ -215,10 +215,10 @@ a.nav-link:after {
     font-family: 'Montserrat';
     font-style: italic;
 }
-.rightPart{
+.ban1_rightPart{
     width: 569px;
     height: 535px;
-    background-image: url(Images/BanRectangle.png);
+    background-image: url(../Images/BanRectangle.png);
     margin-top: 37px;
     /* border: 1px solid white; */
     /* margin-left: 5px !important; */
